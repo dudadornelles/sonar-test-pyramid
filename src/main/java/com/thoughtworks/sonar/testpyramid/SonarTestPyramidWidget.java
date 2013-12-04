@@ -6,15 +6,15 @@ import org.sonar.api.web.RubyRailsWidget;
 public class SonarTestPyramidWidget extends AbstractRubyTemplate implements RubyRailsWidget {
 
     public String getId() {
-        return "artifact_size";
+        return "sonar_test_pyramid";
     }
 
     public String getTitle() {
-        return "Artifact Size";
+        return "Test Pyramid";
     }
 
     @Override
     protected String getTemplatePath() {
-        return "/com/thoughtworks/sonar/artifactsize/widget.html.erb";
+        return "/com/thoughtworks/sonar/testpyramid/sonar-test-pyramid-widget.html.erb";
     }
 }

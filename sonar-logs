@@ -1,0 +1,1 @@
+tail -f target/sonar-work/sonar-3.0/logs/output.log

@@ -48,7 +48,7 @@
         <version>1.0</version>
         <extensions>true</extensions>
         <configuration>
-          <pluginClass>com.thoughtworks.sonar.testpyramid.SonarTestPyramidSensor</pluginClass>
+          <pluginClass>com.thoughtworks.sonar.testpyramid.SonarTestPyramidPlugin</pluginClass>
         </configuration>
       </plugin>
 
