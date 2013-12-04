@@ -3,6 +3,8 @@ Sonar Test Pyramid Plugin
 
 Show stats for your (java) project's [test pyramid](http://martinfowler.com/bliki/TestPyramid.html).
 
+![sonar test pyramid](http://s27.postimg.org/4d9c5rb0j/sonar_test_pyramid.png)
+
 Usage
 -----
 
